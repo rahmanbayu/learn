@@ -1,2 +1,2 @@
 	-baris kesatu
-	-baris kedua
+	-baris satu setengah
